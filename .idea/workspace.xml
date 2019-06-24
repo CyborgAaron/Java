@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7ee38e6-2a53-46d3-8605-9f6b1b3669aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/AnotherStackAndHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/AnotherStackAndHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Array/Exercise2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Array/Exercise2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Array/MDARandomDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Array/MDARandomDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Array/NewExercise2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Array/NewExercise2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Array/SumAllElementsColumnsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Array/SumAllElementsColumnsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Array/SumAllElementsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Array/SumAllElementsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Array/SumAllElementsRowExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Array/SumAllElementsRowExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/ArrayExample/QuickSortImproved.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/ArrayExample/QuickSortImproved.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/BinarySearchTree/BST$InorderIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/BinarySearchTree/BST$InorderIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/BinarySearchTree/BST$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/BinarySearchTree/BST$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/BinarySearchTree/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/BinarySearchTree/BST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/BinarySearchTree/BSTAnimation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/BinarySearchTree/BSTAnimation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/BinarySearchTree/BSTTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/BinarySearchTree/BSTTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/BinarySearchTree/BTView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/BinarySearchTree/BTView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/BinarySearchTree/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/BinarySearchTree/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/CallVoidMethodDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/CallVoidMethodDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/DoWhileLoopdDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/DoWhileLoopdDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Excerise15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Excerise15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Excerise16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Excerise16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Exercise9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/ExerciseMethod3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/ExerciseMethod3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/ForLoopDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/ForLoopDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/InstanceCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/InstanceCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/META-INF/Engineering33_AML.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module14SortPackage/BucketSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module14SortPackage/BucketSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module14SortPackage/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module14SortPackage/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module14SortPackage/Method2InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module14SortPackage/Method2InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module14SortPackage/Method4Sorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module14SortPackage/Method4Sorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module14SortPackage/ModuleSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module14SortPackage/ModuleSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module14SortPackage/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module14SortPackage/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module14SortPackage/QuickSortExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module14SortPackage/QuickSortExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module14SortPackage/aegdfh.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module14SortPackage/aegdfh.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module5/IndexOfOneDimensionalArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module5/IndexOfOneDimensionalArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module5/IndexOutOfBoundExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module5/IndexOutOfBoundExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module5/InputMismtachExceptionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module5/InputMismtachExceptionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module5/QuotientDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module5/QuotientDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module5/QuotientMethodDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module5/QuotientMethodDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module5/QuotientWithExceptionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module5/QuotientWithExceptionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module5/SumOf2intElementsExercise1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module5/SumOf2intElementsExercise1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module5/quotientWithIfDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module5/quotientWithIfDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/ArrayExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/ArrayExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/ArrayListAndLinkedListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/ArrayListAndLinkedListDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/ArrayListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/ArrayListDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/ArrayListIntUserinput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/ArrayListIntUserinput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/ForEachDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/ForEachDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/IterateLinkedListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/IterateLinkedListDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/IteratorDEMO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/IteratorDEMO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/RemoveDupArrayLeoVersion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/RemoveDupArrayLeoVersion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/RetrieveElementLinkedListWithEDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/RetrieveElementLinkedListWithEDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/TwoArraylistThatAccept5int.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/TwoArraylistThatAccept5int.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/UserInputAndRemoveDups.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module7/UserInputAndRemoveDups.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/AccountExercise/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/AccountExercise/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/AccountExercise/GroupExercise11ObjectsAndClasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/AccountExercise/GroupExercise11ObjectsAndClasses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/AccountExercise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/AccountExercise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/CountDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/CountDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/CountWordsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/CountWordsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/CounterLetterExerciseNew.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/CounterLetterExerciseNew.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/GuessCapitalExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/GuessCapitalExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/GuessCapitalExerciseVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/GuessCapitalExerciseVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/HashSetDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/HashSetDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/LinkedHashSetDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/LinkedHashSetDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/MapsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/MapsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/MethodsInCollectionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/MethodsInCollectionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/SetAndListPerformanceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/SetAndListPerformanceDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/_01_CircleDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/_01_CircleDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/_02_TestCircleDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/_02_TestCircleDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/_03_TVDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/_03_TVDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/_04_Class.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/_04_Class.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/eXP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module8/eXP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module9/CalculateFactorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module9/CalculateFactorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module9/CalculateFibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module9/CalculateFibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module9/RadixSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module9/RadixSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module9/TowerOfHanoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module9/TowerOfHanoi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module_14/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module_14/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module_14/BucketSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module_14/BucketSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Module_8_Sets/TreeSetDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Module_8_Sets/TreeSetDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/PalindromeIntegerExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/PalindromeIntegerExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/PrimitiveBooleanDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/PrimitiveBooleanDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/PrimitiveByteDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/PrimitiveByteDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/PrimitiveCharDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/PrimitiveCharDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/PrimitiveDoubleDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/PrimitiveDoubleDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/PrimitiveFloatDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/PrimitiveFloatDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/PrimitiveIntDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/PrimitiveIntDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/PrimitiveLongDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/PrimitiveLongDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/PrimitiveShortDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/PrimitiveShortDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/SelectMaxOverloadingDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/SelectMaxOverloadingDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/SelectmaxDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/SelectmaxDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/Sort/RadixSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/Sort/RadixSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/SortThreeExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/SortThreeExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/StackAndHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/StackAndHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/SumExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/SumExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/SwapNumbersDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/SwapNumbersDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/SwitchStatementDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/SwitchStatementDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/WhileLoopDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/WhileLoopDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/module3/BoosDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/module3/BoosDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/module3/CopyingArrayMethod1Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/module3/CopyingArrayMethod1Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/module3/CopyingArrayMethod2Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/module3/CopyingArrayMethod2Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/module3/NewExerciseArray1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/module3/NewExerciseArray1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/module3/NewExerciseArray2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/module3/NewExerciseArray2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/module3/PassBySharingDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/module3/PassBySharingDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Engineering33_AML/module3/SumDoubleArrayDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Engineering33_AML/module3/SumDoubleArrayDemo.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ArrayExample/QuickSortImproved.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Module8/_02_TestCircleDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Module8/_01_CircleDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Module8/_04_Class.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercise17.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercise8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Module8/CountDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Module8/CounterLetterExerciseNew.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Module8/CountWordsDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sumRow</find>
+      <find>matrix</find>
+      <find>rowIndex</find>
+      <find>ex</find>
+      <find>ugan</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\alucas\IdeaProjects\Engineering33_AML\src\Module8</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Module7/UserInputAndRemoveDups.java" />
+        <option value="$PROJECT_DIR$/src/Module7/TwoArraylistThatAccept5int.java" />
+        <option value="$PROJECT_DIR$/src/Module7/ArrayListAndLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/Module7/RetrieveElementLinkedListWithEDemo.java" />
+        <option value="$PROJECT_DIR$/src/Module7/IterateLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/Module7/RemoveDupArrayLeoVersion.java" />
+        <option value="$PROJECT_DIR$/src/Array/Exercise2.java" />
+        <option value="$PROJECT_DIR$/src/Module8/CountWordsDemo.java" />
+        <option value="$PROJECT_DIR$/src/Module8/CountDemo.java" />
+        <option value="$PROJECT_DIR$/src/Module8/HashSetDemo.java" />
+        <option value="$PROJECT_DIR$/src/Module8/MethodsInCollectionDemo.java" />
+        <option value="$PROJECT_DIR$/src/Module8/eXP.java" />
+        <option value="$PROJECT_DIR$/src/Module8/CountLettersExercise.java" />
+        <option value="$PROJECT_DIR$/src/Module8/CounterLetterExerciseNew.java" />
+        <option value="$PROJECT_DIR$/src/Module8/LinkedHashSetDemo.java" />
+        <option value="$PROJECT_DIR$/src/Module8/SetAndListPerformanceDemo.java" />
+        <option value="$PROJECT_DIR$/src/Module8/MapsDemo.java" />
+        <option value="$PROJECT_DIR$/src/Module8/GuessCapitalExerciseVer2.java" />
+        <option value="$PROJECT_DIR$/src/Module8/GuessCapitalExercise.java" />
+        <option value="$PROJECT_DIR$/src/Module8/_01_CircleDemo.java" />
+        <option value="$PROJECT_DIR$/src/Module8/_02_TestCircleDemo.java" />
+        <option value="$PROJECT_DIR$/src/Module8/_03_TVDemo.java" />
+        <option value="$PROJECT_DIR$/src/Module8/_04_Class.java" />
+        <option value="$PROJECT_DIR$/src/Module8/GroupExercise11ObjectsAndClasses.java" />
+        <option value="$PROJECT_DIR$/src/Module8/AccountExercise/GroupExercise11ObjectsAndClasses.java" />
+        <option value="$PROJECT_DIR$/src/Module8/AccountExercise/Account.java" />
+        <option value="$PROJECT_DIR$/src/Module8/AccountExercise/Main.java" />
+        <option value="$PROJECT_DIR$/src/Module9/CalculateFactorial.java" />
+        <option value="$PROJECT_DIR$/src/ModuleSortPackage/ModuleSorting.java" />
+        <option value="$PROJECT_DIR$/src/Module14SortPackage/ModuleSorting.java" />
+        <option value="$PROJECT_DIR$/src/Module14SortPackage/Method2InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/Module9/CalculateFibonacci.java" />
+        <option value="$PROJECT_DIR$/src/Module9/TowerOfHanoi.java" />
+        <option value="$USER_HOME$/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/RadixSort (1).java" />
+        <option value="$PROJECT_DIR$/src/Module14SortPackage/Method4Sorting.java" />
+        <option value="$PROJECT_DIR$/src/Module14SortPackage/BucketSort.java" />
+        <option value="$PROJECT_DIR$/src/Module14SortPackage/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/Module14SortPackage/aegdfh.java" />
+        <option value="$PROJECT_DIR$/src/Module14SortPackage/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/Module14SortPackage/QuickSortExample.java" />
+        <option value="$PROJECT_DIR$/src/Sort/RadixSort.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearchTree/BSTAnimation.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearchTree/BTView.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearchTree/Tree.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearchTree/BST.java" />
+        <option value="$PROJECT_DIR$/src/Exercise14.java" />
+        <option value="$PROJECT_DIR$/src/Excerise15.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearchTree/BSTTestToInserStrings.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearchTree/BSTTest.java" />
+        <option value="$PROJECT_DIR$/src/ArrayExample/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/ArrayExample/QuickSortImproved.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1608" />
+    <option name="y" value="68" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Engineering33_AML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Engineering33_AML" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Engineering33_AML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Engineering33_AML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alucas\IdeaProjects\Engineering33_AML\src\BinarySearchTree" />
+      <recent name="C:\Users\alucas\IdeaProjects\Engineering33_AML\src\Sort" />
+      <recent name="C:\Users\alucas\IdeaProjects\Engineering33_AML\src\Module14SortPackage" />
+      <recent name="C:\Users\alucas\IdeaProjects\Engineering33_AML\src\Module9" />
+      <recent name="C:\Users\alucas\IdeaProjects\Engineering33_AML\src\Module8" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CounterLetterExerciseNew">
+    <configuration name="CounterLetterExerciseNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Module8.CounterLetterExerciseNew" />
+      <module name="Engineering33_AML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Module8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupExercise11ObjectsAndClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Module8.AccountExercise.GroupExercise11ObjectsAndClasses" />
+      <module name="Engineering33_AML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Module8.AccountExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Module8.AccountExercise.Main" />
+      <module name="Engineering33_AML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Module8.AccountExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewExerciseArray1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module3.NewExerciseArray1" />
+      <module name="Engineering33_AML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSortImproved" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExample.QuickSortImproved" />
+      <module name="Engineering33_AML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NewExerciseArray1" />
+      <item itemvalue="Application.GroupExercise11ObjectsAndClasses" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.QuickSortImproved" />
+      <item itemvalue="Application.CounterLetterExerciseNew" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CounterLetterExerciseNew" />
+        <item itemvalue="Application.QuickSortImproved" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.GroupExercise11ObjectsAndClasses" />
+        <item itemvalue="Application.NewExerciseArray1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7ee38e6-2a53-46d3-8605-9f6b1b3669aa" name="Default Changelist" comment="" />
+      <created>1556785808390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556785808390</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1608" y="68" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24357326" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28060672" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39745402" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.35643566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14075068" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.291372" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39823008" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.35643566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Array/Exercise2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-352">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/SumAllElementsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module3/NewExerciseArray2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module8/MethodsInCollectionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-348">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module9/CalculateFibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/SumAllElementsRowExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module9/TowerOfHanoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14SortPackage/RadixSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-104">
+          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwapNumbersDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14SortPackage/ModuleSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="41" column="40" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14SortPackage/Method2InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="41" column="14" selection-start-line="40" selection-start-column="6" selection-end-line="42" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#127#206#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14SortPackage/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14SortPackage/BucketSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="40" column="75" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14SortPackage/Method4Sorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14SortPackage/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort.java" />
+    <entry file="file://$PROJECT_DIR$/src/Module14SortPackage/QuickSortExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort/BucketSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module14SortPackage/aegdfh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="49" column="27" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearchTree/BTView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Excerise15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearchTree/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort/RadixSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-636">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearchTree/BSTAnimation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearchTree/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearchTree/BSTTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module5/SumOf2intElementsExercise1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module5/quotientWithIfDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module5/QuotientWithExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-121">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module5/QuotientMethodDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module5/QuotientDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module8/AccountExercise/GroupExercise11ObjectsAndClasses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module3/CopyingArrayMethod2Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module3/NewExerciseArray1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module5/IndexOfOneDimensionalArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module5/IndexOutOfBoundExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module5/InputMismtachExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module7/ArrayExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module8/AccountExercise/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module8/AccountExercise/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayExample/QuickSortImproved.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module8/_02_TestCircleDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module8/_04_Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module8/CountDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module8/CounterLetterExerciseNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module8/CountWordsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module8/_03_TVDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module8/_01_CircleDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
